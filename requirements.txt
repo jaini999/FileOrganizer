@@ -1,0 +1,7 @@
+watchdog
+pdfminer.six
+requests
+python-dotenv
+google-generativeai
+python-docx
+striprtf 
